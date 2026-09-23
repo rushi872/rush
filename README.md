@@ -1,2 +1,2 @@
-# rush
+# rushi
 welcome
