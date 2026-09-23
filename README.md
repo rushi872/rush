@@ -1,4 +1,5 @@
-# rushi
+# github
+
 What is GitHub?
 
 GitHub is an online platform used to store, manage, and collaborate on software projects using Git.
